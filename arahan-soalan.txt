@@ -1,0 +1,4 @@
+Keterampilan
+  -Membina repository di computer
+  -Setempat Bangunkan branch
+  -Gabungkan branch
