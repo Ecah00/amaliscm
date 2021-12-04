@@ -2,4 +2,3 @@ Keterampilan
   -Membina repository di computer
   -Setempat Bangunkan branch
   -Gabungkan branch
-  -ilp selandar
